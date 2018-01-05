@@ -2,4 +2,4 @@
 ML DL AI PYTHON CHEAT SHEETS and many more
 
 
-For any queries questions on data science, please write to me on analytics.raju@gmail.com
+For any queries/clarifications on data science, please write to me on analytics.raju@gmail.com
